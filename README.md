@@ -49,4 +49,6 @@ Execute `django-admin startapp NAME` to create new app into project.
 ### Additional resources
 
 - [Docker get started](https://www.docker.com/get-started)
+- [Django REST Framework tutorial quickstart](https://www.django-rest-framework.org/tutorial/quickstart/)
 - [Django REST Framework tutorial](https://medium.com/backticks-tildes/lets-build-an-api-with-django-rest-framework-32fcf40231e5)
+- [Django REST Framework tutorial](https://realpython.com/test-driven-development-of-a-django-restful-api/)
